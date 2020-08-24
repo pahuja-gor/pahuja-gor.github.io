@@ -1,0 +1,127 @@
+#e-mail, #linkedin, #hackerrank, #github {
+    padding-right: 10px;
+}
+#e-mail {
+    color: yellow;
+}
+#linkedin {
+    color: #0072b1;
+}
+#github {
+    color: #6e5494;
+}
+.jovianml {
+    height: 40px;
+    width: 30px;
+    display: inline-block;
+}
+#hackerrank {
+    left: 10px;
+    color: rgb(132, 233, 109);
+}
+#instagram {
+    color: hotpink;
+}
+
+/*-------------------------------------Rainbow Text Gradient-------------------------------------------------*/
+
+.rainbow {
+    font-family: "Source Sans Pro", sans-serif;
+    font-style: normal;
+    font-weight: 15;
+    font-size: 3.6rem;
+    line-height: 1.25;
+    letter-spacing: 1px;
+    text-transform: none;
+    text-align: center;
+}
+.rainbow_text_animated {
+    background: linear-gradient(to right, #6666ff, #0099ff , #00ff00, #ff3399, #6666ff);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    animation: rainbow_animation 3s ease-in-out infinite;
+    background-size: 400% 100%;
+}
+
+@keyframes rainbow_animation {
+    0%,100% {
+        background-position: 0 0;
+    }
+
+    50% {
+        background-position: 100% 0;
+    }
+}
+
+/*------------------------------------------Motto Styling----------------------------------------------------------*/
+
+#motto {
+    font-family: -apple-system, BlinkMacSystemFont, Avenir, "Avenir Next",
+    "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans",
+    "Droid Sans", "Helvetica Neue", sans-serif;
+    color: yellow;
+    text-transform: lowercase !important;
+    font-weight: bold;
+    font-size: 1rem !important;
+    line-height: 1.25;
+    letter-spacing: 1px;
+}
+
+/*----------------------------------------Infinite Typing Animation------------------------------------------------*/
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #000;
+    color: #eee;
+}
+.container {
+    height: 1vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container p {
+    font-size: 3rem;
+    padding: 0.5rem;
+    font-weight: bold;
+    letter-spacing: 0.1rem;
+    text-align: center;
+    overflow: hidden;
+}
+.container p span.typed-text {
+    font-weight: normal !important;
+    /*color: #F21A1D;*/
+    /*color: deepskyblue;*/
+    font-size: 1.25rem !important;
+}
+.container p span.cursor {
+    display: inline-block;
+    background-color: #ccc;
+    margin-left: 0.1rem;
+    height: 30px;
+    width: 3px;
+    animation: blink 1s infinite;
+}
+.container p span.cursor.typing {
+    animation: none;
+}
+@keyframes blink {
+    0%  { background-color: #ccc; }
+    49% { background-color: #ccc; }
+    50% { background-color: transparent; }
+    99% { background-color: transparent; }
+    100%  { background-color: #ccc; }
+}
+
+/*--------------------------------------------Footer Styling-------------------------------------------------------*/
+.copyright:hover {
+    color: yellow !important;
+}
