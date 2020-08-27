@@ -10,17 +10,28 @@
 #github {
     color: #6e5494;
 }
-.jovianml {
+.jovianml_img {
     height: 40px;
     width: 30px;
     display: inline-block;
 }
-#hackerrank {
-    left: 10px;
-    color: rgb(132, 233, 109);
+#devpost {
+    padding-left: 5px;
+    padding-right: 5px;
 }
-#instagram {
-    color: hotpink;
+.devpost_img {
+    height: 45px;
+    width: 45px;
+    display: inline-block;
+}
+#hackerrank {
+    bottom: 10px;
+    color: rgb(132, 233, 109);
+    padding: 0px;
+}
+.codesignal_svg {
+    bottom: 10px;
+    display: inline-block;
 }
 
 /*-------------------------------------Rainbow Text Gradient-------------------------------------------------*/
