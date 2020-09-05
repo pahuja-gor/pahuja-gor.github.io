@@ -19,12 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93e6169d-9b8b-4ed1-a5d1-f95b5ba1795f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/gradient_button.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/gradient_button.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/home.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="93e6169d-9b8b-4ed1-a5d1-f95b5ba1795f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +52,7 @@
       <workItem from="1598362918282" duration="192000" />
       <workItem from="1598389041239" duration="81000" />
       <workItem from="1598389288175" duration="27000" />
-      <workItem from="1598767326616" duration="58000" />
+      <workItem from="1598767326616" duration="143000" />
     </task>
     <servers />
   </component>
