@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93e6169d-9b8b-4ed1-a5d1-f95b5ba1795f" name="Default Changelist" comment="" />
+    <list default="true" id="93e6169d-9b8b-4ed1-a5d1-f95b5ba1795f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +40,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -53,6 +57,7 @@
       <workItem from="1598389041239" duration="81000" />
       <workItem from="1598389288175" duration="27000" />
       <workItem from="1598767326616" duration="143000" />
+      <workItem from="1601571229578" duration="1174000" />
     </task>
     <servers />
   </component>
@@ -72,9 +77,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="320" y="180" key="Vcs.Push.Dialog.v2" timestamp="1598346241686">
-      <screen x="0" y="23" width="1440" height="835" />
+    <state x="320" y="178" key="Vcs.Push.Dialog.v2" timestamp="1601572347672">
+      <screen x="0" y="23" width="1440" height="825" />
     </state>
+    <state x="320" y="178" key="Vcs.Push.Dialog.v2/0.23.1440.825@0.23.1440.825" timestamp="1601572347672" />
     <state x="320" y="180" key="Vcs.Push.Dialog.v2/0.23.1440.835@0.23.1440.835" timestamp="1598346241686" />
   </component>
 </project>
